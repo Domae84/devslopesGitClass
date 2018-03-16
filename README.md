@@ -1,0 +1,4 @@
+# devslopesGitClass
+Repo for devslopes GitHub class
+
+# Everything is so great in life and i love to skate
